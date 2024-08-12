@@ -9,7 +9,7 @@ require (
 	github.com/mattn/goveralls v0.0.12
 	github.com/stretchr/testify v1.9.0
 	github.com/urfave/cli/v2 v2.27.2
-	golang.org/x/text v0.16.0
+	golang.org/x/text v0.17.0
 	golang.org/x/tools v0.22.0
 	golang.org/x/tools/cmd/cover v0.1.0-deprecated
 )
